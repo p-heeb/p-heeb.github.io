@@ -1,3 +1,4 @@
 baseURL = 'https://p-heeb.github.io/'
 languageCode = 'en-us'
 title = 'Blog'
+theme = 'ananke'
